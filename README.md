@@ -10,7 +10,7 @@ This project aims to analyze tourist behavior and preferences for hiking, levera
 - **Data-Driven Insights**: Collects, cleans, and processes user and external data to uncover trends and preferences.
 - **Personalized Recommendations**: Utilizes machine learning models to recommend trails tailored to individual preferences.
 - **Advanced Technologies**: Incorporates Docker for containerization, Elasticsearch for data search, and data reliability frameworks for accuracy.
-- **Real-Time Data Visualization**: Displays insights and predictions through interactive charts and graphs.
+- **Real-Time Data Visualization**:  Displays insights and predictions through interactive charts and graphs.
 
 ---
 
