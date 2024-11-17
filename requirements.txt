@@ -3,4 +3,5 @@ numpy
 pandas
 plotly
 scikit-learn
+TensorFlow
 mysqlclient
