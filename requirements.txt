@@ -2,5 +2,7 @@ streamlit
 numpy 
 pandas
 plotly
-Sckit-Learn
+scikit-learn
 TensorFlow
+mysqlclient
+
