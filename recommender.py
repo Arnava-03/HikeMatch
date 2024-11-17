@@ -149,7 +149,7 @@ def format_user_recommendations(recommendations):
             f"💪 Difficulty: {trail['Difficulty']}\n"
             f"📏 Length: {trail['Length']} km\n"
             f"⭐ Rating: {trail['Average_rating']}/5.0\n"
-            f"🎯 Match Score: {trail['Match_Score']:.2f}\n"
+            # f"🎯 Match Score: {trail['Match_Score']:.2f}\n"
             f"🏷️ Features: {', '.join(trail['Tags'])}\n"
         )
     return "\n".join(output)
