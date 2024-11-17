@@ -18,7 +18,7 @@ This project aims to analyze tourist behavior and preferences for hiking, levera
 
 - **Frontend**: Streamlit
 - **Backend**: Python
-- **Database**: SQL 
+- **Database**: MySQL 
 - **Data Handling**: Pandas, NumPy
 - **Search and Indexing**: Elasticsearch
 - **Containerization**: Docker
