@@ -31,7 +31,6 @@ def format(recommendations):
             <p style="margin: 5px 0;">💪 <strong>Difficulty:</strong> {trail['Difficulty']}</p>
             <p style="margin: 5px 0;">📏 <strong>Length:</strong> {trail['Length']} km</p>
             <p style="margin: 5px 0;">⭐ <strong>Rating:</strong> {trail['Average_rating']}/5.0</p>
-            <p style="margin: 5px 0;">🎯 <strong>Match Score:</strong> {trail['Match_Score']:.2f}</p>
             <p style="margin: 5px 0;">🏷️ <strong>Features:</strong> {', '.join(trail['Tags'])}</p>
         </div>
         """
